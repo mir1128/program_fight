@@ -3,4 +3,5 @@
 *.iws
 .gradle/
 gradle
-
+out/
+build/
